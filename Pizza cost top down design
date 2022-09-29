@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T19:01:36.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.7" etag="4l4iTmutKv-xZHtUwHGK" type="github"><diagram id="MgYK9be3omy61J6hx1EQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-29T13:19:44.845Z" agent="5.0 (X11; CrOS x86_64 12239.92.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.136 Safari/537.36" etag="3vmmSyeJtKyWk9B_pzhF" version="20.3.7" type="github">
+  <diagram id="MgYK9be3omy61J6hx1EQ" name="Page-1">
+    <mxGraphModel dx="1718" dy="1590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ECmzctcXbND5S9dh-65Z-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECmzctcXbND5S9dh-65Z-1" target="ECmzctcXbND5S9dh-65Z-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmzctcXbND5S9dh-65Z-1" value="Pizza cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmzctcXbND5S9dh-65Z-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECmzctcXbND5S9dh-65Z-2" target="ECmzctcXbND5S9dh-65Z-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmzctcXbND5S9dh-65Z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ECmzctcXbND5S9dh-65Z-2" target="ECmzctcXbND5S9dh-65Z-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmzctcXbND5S9dh-65Z-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECmzctcXbND5S9dh-65Z-2" target="ECmzctcXbND5S9dh-65Z-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmzctcXbND5S9dh-65Z-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECmzctcXbND5S9dh-65Z-2" target="ECmzctcXbND5S9dh-65Z-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmzctcXbND5S9dh-65Z-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECmzctcXbND5S9dh-65Z-2" target="ECmzctcXbND5S9dh-65Z-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmzctcXbND5S9dh-65Z-2" value="Input" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmzctcXbND5S9dh-65Z-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECmzctcXbND5S9dh-65Z-3" target="ECmzctcXbND5S9dh-65Z-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmzctcXbND5S9dh-65Z-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECmzctcXbND5S9dh-65Z-3" target="ECmzctcXbND5S9dh-65Z-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmzctcXbND5S9dh-65Z-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ECmzctcXbND5S9dh-65Z-3" target="ECmzctcXbND5S9dh-65Z-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmzctcXbND5S9dh-65Z-3" value="Process" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmzctcXbND5S9dh-65Z-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ECmzctcXbND5S9dh-65Z-4" target="ECmzctcXbND5S9dh-65Z-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmzctcXbND5S9dh-65Z-4" value="Output" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmzctcXbND5S9dh-65Z-7" value="Get labour cost, 2.00" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmzctcXbND5S9dh-65Z-8" value="get rental cost, 2.25&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22110%22%20y%3D%22-330%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmzctcXbND5S9dh-65Z-9" value="Get Diameter, D" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="-250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmzctcXbND5S9dh-65Z-13" value="Get tax, 0.13" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="-140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmzctcXbND5S9dh-65Z-15" value="Calculate total, = subtotal + tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmzctcXbND5S9dh-65Z-16" value="Calculate subtotal, Labour cost + rental cost + diameter *1.5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmzctcXbND5S9dh-65Z-17" value="Calculate Tax, = Subtotal + HST" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ECmzctcXbND5S9dh-65Z-23" value="&lt;span id=&quot;docs-internal-guid-3990d343-7fff-af07-324d-eef392d38ed0&quot;&gt;&lt;p style=&quot;line-height:1.2;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;Display the Total&amp;nbsp; with proper formatting to the user&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-240" width="170" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
